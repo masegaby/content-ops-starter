@@ -8,10 +8,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: A Data analystic consultant
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Collect, process, analyze, and present data - from supporting everyday
+      business decisions to driving global change.
+
     actions:
       - label: Get started
         altText: ''
