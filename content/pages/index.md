@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: wEL
+      label: welcome TO MY PORTFOLIO
       color: text-primary
       type: Badge
     elementId: ''
