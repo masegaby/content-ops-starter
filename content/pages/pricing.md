@@ -21,7 +21,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: About me
+      text: ''
       color: text-dark
     subtitle: ''
     text: >
