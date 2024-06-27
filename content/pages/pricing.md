@@ -50,7 +50,7 @@ sections:
       excellence.
     actions:
       - type: Button
-        label: Get started
+        label: Contact me
         url: /
         icon: arrowRight
         iconPosition: right
