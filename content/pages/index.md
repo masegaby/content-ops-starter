@@ -7,7 +7,7 @@ sections:
       text: I am Gabrielly Holanda
       color: text-dark
       type: TitleBlock
-    subtitle: A Data analystic consulting
+    subtitle: A Data analystic consultant
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
