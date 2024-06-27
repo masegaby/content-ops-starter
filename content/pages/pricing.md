@@ -120,7 +120,7 @@ sections:
       type: TitleBlock
       text: About me
       color: text-dark
-    subtitle: Be in good company
+    subtitle: ''
     text: >
       Civil engineer passionate about data analysis and technology, with a
       multifaceted professional journey spanning from the field to the corporate
