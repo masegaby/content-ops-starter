@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: I am Gabrielly
+      text: I am Gabrielly - a Data Analystic
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
