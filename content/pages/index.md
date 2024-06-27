@@ -13,7 +13,7 @@ sections:
       business decisions to driving global change.
 
     actions:
-      - label: Get started
+      - label: See my projects
         altText: ''
         url: /
         showIcon: false
