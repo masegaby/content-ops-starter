@@ -82,7 +82,7 @@
     },
     "linkSecondary": {
         "weight": "normal",
-        "case": "uppercase",
+        "case": "none",
         "letterSpacing": "normal",
         "type": "ThemeStyleLink"
     },
