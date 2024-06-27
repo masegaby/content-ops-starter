@@ -166,7 +166,7 @@ sections:
         alignItems: center
         flexDirection: row-reverse
       text:
-        textAlign: center
+        textAlign: right
 seo:
   metaTitle: Pricing - Demo site
   metaDescription: This is the pricing page built with Netlify Create.
