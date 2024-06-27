@@ -27,14 +27,21 @@ sections:
     text: >
       Civil engineer passionate about data analysis and technology, with a
       multifaceted professional journey spanning from the field to the corporate
-      environment. I began my career working on construction sites, where I
-      developed a deep understanding of the challenges and complexities of the
-      construction industry.
+      environment.
+
+
+      I began my career working on construction sites, where I developed a deep
+      understanding of the challenges and complexities of the construction
+      industry.
+
+
 
       Over time, I transitioned to the construction company's office, where I
       discovered my passion for data analysis. Immersing myself in this
       fascinating world, I realized the transformative power that analytical
       insights can have on companies' strategic decision-making.
+
+
 
       I firmly believe in the potential of technology to drive the growth and
       development of organizations. My goal is to continue making significant
