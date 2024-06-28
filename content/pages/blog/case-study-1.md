@@ -1,5 +1,5 @@
 ---
-title: Análise de Desempenho Mensal - Construtora
+title: Monthly Performance Analysis - Construction Company
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
